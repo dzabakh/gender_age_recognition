@@ -5,3 +5,5 @@ Also, you will need to download this zip: https://drive.google.com/file/d/1yy_po
 and unzip it to gad/ subfolder of the project.
 A deployed version is (sometimes) running on t.me/dzabakh_angelina_bot
 Features: Telegram bot, Google Text To Speech, Face recognition, Age recognition
+Hosting routine described here:
+https://github.com/python-telegram-bot/python-telegram-bot/wiki/Hosting-your-bot
