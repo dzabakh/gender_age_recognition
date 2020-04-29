@@ -4,3 +4,4 @@ You will need to add a config.py file with code "token=<your_Telegram_bot_token>
 Also, you will need to download this zip: https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
 and unzip it to gad/ subfolder of the project.
 A deployed version is (sometimes) running on t.me/dzabakh_angelina_bot
+Features: Telegram bot, Google Text To Speech, Face recognition, Age recognition
