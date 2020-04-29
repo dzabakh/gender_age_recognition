@@ -1,4 +1,4 @@
-# gender_age_recognition
+# Gender and age recognition (be careful, strong Russian inside)
 This is a small joke project on face recognition based on https://data-flair.training/blogs/python-project-gender-age-detection/
 You will need to add a config.py file with code "token=<your_Telegram_bot_token>" to the project folder.
 Also, you will need to download this zip: https://drive.google.com/file/d/1yy_poZSFAPKi0y2e2yj9XDe1N8xXYuKB/view
